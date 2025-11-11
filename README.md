@@ -82,7 +82,7 @@ Read an overview of the areas of the SDK that you might need for your extension 
 
 ## Samples and tutorials
 
-You can find a Visual Studio solution that contains all samples at [Samples.sln](New_Extensibility_Model/Samples/Samples.sln).
+You can find a Visual Studio solution that contains all samples at [Samples.slnx](New_Extensibility_Model/Samples/Samples.slnx).
 
 | Sample | Description|
 |-|-|
