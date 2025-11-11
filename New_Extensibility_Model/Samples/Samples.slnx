@@ -1,0 +1,48 @@
+<Solution>
+  <Folder Name="/CompositeExtension/">
+    <File Path="CompositeExtension/README.md" />
+    <Project Path="CompositeExtension/CompositeExtension/CompositeExtension.csproj" />
+    <Project Path="CompositeExtension/OutOfProcComponent/OutOfProcComponent.csproj" />
+  </Folder>
+  <Folder Name="/ExtensionWithTraditionalComponents/">
+    <File Path="ExtensionWithTraditionalComponents/README.md" />
+    <Project Path="ExtensionWithTraditionalComponents/Container/Container.csproj" />
+    <Project Path="ExtensionWithTraditionalComponents/Extension/Extension.csproj" />
+  </Folder>
+  <Folder Name="/MemoryStreamDebugVisualizer/">
+    <Project Path="MemoryStreamDebugVisualizer/MemoryStreamObjectSource/MemoryStreamObjectSource.csproj" />
+    <Project Path="MemoryStreamDebugVisualizer/MemoryStreamVisualizer/MemoryStreamVisualizer.csproj" />
+  </Folder>
+  <Folder Name="/RegexMatchDebugVisualizer/">
+    <File Path="RegexMatchDebugVisualizer/README.md" />
+    <Project Path="RegexMatchDebugVisualizer/RegexMatchDebugVisualizer/RegexMatchDebugVisualizer.csproj" />
+    <Project Path="RegexMatchDebugVisualizer/RegexMatchObjectSource/RegexMatchObjectSource.csproj" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="Directory.Build.props" />
+    <File Path="shipping.ruleset" />
+  </Folder>
+  <Project Path="AsyncPackageAndMEF/AsyncPackageAndMEF.csproj" />
+  <Project Path="ClassificationSample/ClassificationSample.csproj" />
+  <Project Path="CodeLensSample/CodeLensSample.csproj" />
+  <Project Path="CommandParentingSample/CommandParentingSample.csproj" />
+  <Project Path="CommentRemover/CommentRemover.csproj" />
+  <Project Path="DialogSample/DialogSample.csproj" />
+  <Project Path="DocumentSelectorSample/DocumentSelectorSample.csproj" />
+  <Project Path="EncodeDecodeBase64/EncodeDecodeBase64.csproj" />
+  <Project Path="ExtensionPublisher/ExtensionPublisher.csproj" />
+  <Project Path="FeatureGallery/FeatureGallery.csproj" />
+  <Project Path="FilePickerSample/FilePickerSample.csproj" />
+  <Project Path="InProcFeatureGallery/InProcFeatureGallery.csproj" />
+  <Project Path="InsertGuid/InsertGuid.csproj" />
+  <Project Path="MarkdownLinter/MarkdownLinter.csproj" />
+  <Project Path="OutputWindowSample/OutputWindowSample.csproj" />
+  <Project Path="RustLanguageServerProvider/RustLanguageServerProvider.csproj" />
+  <Project Path="SettingsSample/SettingsSample.csproj" />
+  <Project Path="SimpleRemoteCommandSample/SimpleRemoteCommandSample.csproj" />
+  <Project Path="TaggersSample/TaggersSample.csproj" />
+  <Project Path="ToolWindowSample/ToolWindowSample.csproj" />
+  <Project Path="UserPromptSample/UserPromptSample.csproj" />
+  <Project Path="VSProjectQueryAPISample/VSProjectQueryAPISample.csproj" />
+  <Project Path="WordCountMargin/WordCountMarginSample.csproj" />
+</Solution>
