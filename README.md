@@ -104,6 +104,7 @@ You can find a Visual Studio solution that contains all samples at [Samples.slnx
 | [MemoryStreamDebugVisualizer](New_Extensibility_Model/Samples/MemoryStreamDebugVisualizer) | Shows how to create a [Debugger Visualizer](https://learn.microsoft.com/visualstudio/extensibility/visualstudio.extensibility/debugger-visualizer/debugger-visualizers) to visualize MemoryStream objects that launches in a non-modal tool window. |
 | [CompositeExtension](New_Extensibility_Model/Samples/CompositeExtension) | Shows how to create an extension with in-proc and out-of-proc components that communicate using brokered services. . |
 | [ExtensionWithTraditionalComponents](New_Extensibility_Model/Samples/ExtensionWithTraditionalComponents) | Shows how to create an out-of-proc extension that packages VSSDK components. |
+| [AsyncPackageAndMEF](New_Extensibility_Model/Samples/AsyncPackageAndMEF) | Shows how to write an in-proc VisualStudio.Extensibility extensions that also includes components that are common in VSSDK extensions: `AsyncPackage`s and MEF components. |
 
 ## Experimental APIs and Breaking Changes
 Starting with our 17.9 release, we're ready to label the vast majority of our APIs as stable. That is, we don't plan to make any breaking changes to these APIs. Any breaking changes that might need to be made, for example in response to user feedback about usability, will be communicated formally and with plenty of notice on our [breaking changes](./docs/breaking_changes.md) page.
