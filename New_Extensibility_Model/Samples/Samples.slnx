@@ -2,31 +2,31 @@
   <Folder Name="/CompositeExtension/">
     <File Path="CompositeExtension/README.md" />
     <Project Path="CompositeExtension/CompositeExtension/CompositeExtension.csproj">
-      <Deploy Solution="Debug|*" />
+      <Deploy />
     </Project>
     <Project Path="CompositeExtension/OutOfProcComponent/OutOfProcComponent.csproj">
-      <Deploy Solution="Debug|*" />
+      <Deploy />
     </Project>
   </Folder>
   <Folder Name="/ExtensionWithTraditionalComponents/">
     <File Path="ExtensionWithTraditionalComponents/README.md" />
     <Project Path="ExtensionWithTraditionalComponents/Container/Container.csproj">
-      <Deploy Solution="Debug|*" />
+      <Deploy />
     </Project>
     <Project Path="ExtensionWithTraditionalComponents/Extension/Extension.csproj">
-      <Deploy Solution="Debug|*" />
+      <Deploy />
     </Project>
   </Folder>
   <Folder Name="/MemoryStreamDebugVisualizer/">
     <Project Path="MemoryStreamDebugVisualizer/MemoryStreamObjectSource/MemoryStreamObjectSource.csproj" />
     <Project Path="MemoryStreamDebugVisualizer/MemoryStreamVisualizer/MemoryStreamVisualizer.csproj">
-      <Deploy Solution="Debug|*" />
+      <Deploy />
     </Project>
   </Folder>
   <Folder Name="/RegexMatchDebugVisualizer/">
     <File Path="RegexMatchDebugVisualizer/README.md" />
     <Project Path="RegexMatchDebugVisualizer/RegexMatchDebugVisualizer/RegexMatchDebugVisualizer.csproj">
-      <Deploy Solution="Debug|*" />
+      <Deploy />
     </Project>
     <Project Path="RegexMatchDebugVisualizer/RegexMatchObjectSource/RegexMatchObjectSource.csproj" />
   </Folder>
@@ -35,72 +35,72 @@
     <File Path="shipping.ruleset" />
   </Folder>
   <Project Path="AsyncPackageAndMEF/AsyncPackageAndMEF.csproj">
-    <Deploy Solution="Debug|*" />
+    <Deploy />
   </Project>
   <Project Path="ClassificationSample/ClassificationSample.csproj">
-    <Deploy Solution="Debug|*" />
+    <Deploy />
   </Project>
   <Project Path="CodeLensSample/CodeLensSample.csproj">
-    <Deploy Solution="Debug|*" />
+    <Deploy />
   </Project>
   <Project Path="CommandParentingSample/CommandParentingSample.csproj">
-    <Deploy Solution="Debug|*" />
+    <Deploy />
   </Project>
   <Project Path="CommentRemover/CommentRemover.csproj">
-    <Deploy Solution="Debug|*" />
+    <Deploy />
   </Project>
   <Project Path="DialogSample/DialogSample.csproj">
-    <Deploy Solution="Debug|*" />
+    <Deploy />
   </Project>
   <Project Path="DocumentSelectorSample/DocumentSelectorSample.csproj">
-    <Deploy Solution="Debug|*" />
+    <Deploy />
   </Project>
   <Project Path="EncodeDecodeBase64/EncodeDecodeBase64.csproj">
-    <Deploy Solution="Debug|*" />
+    <Deploy />
   </Project>
   <Project Path="ExtensionPublisher/ExtensionPublisher.csproj">
-    <Deploy Solution="Debug|*" />
+    <Deploy />
   </Project>
   <Project Path="FeatureGallery/FeatureGallery.csproj">
-    <Deploy Solution="Debug|*" />
+    <Deploy />
   </Project>
   <Project Path="FilePickerSample/FilePickerSample.csproj">
-    <Deploy Solution="Debug|*" />
+    <Deploy />
   </Project>
   <Project Path="InProcFeatureGallery/InProcFeatureGallery.csproj">
-    <Deploy Solution="Debug|*" />
+    <Deploy />
   </Project>
   <Project Path="InsertGuid/InsertGuid.csproj">
-    <Deploy Solution="Debug|*" />
+    <Deploy />
   </Project>
   <Project Path="MarkdownLinter/MarkdownLinter.csproj">
-    <Deploy Solution="Debug|*" />
+    <Deploy />
   </Project>
   <Project Path="OutputWindowSample/OutputWindowSample.csproj">
-    <Deploy Solution="Debug|*" />
+    <Deploy />
   </Project>
   <Project Path="RustLanguageServerProvider/RustLanguageServerProvider.csproj">
-    <Deploy Solution="Debug|*" />
+    <Deploy />
   </Project>
   <Project Path="SettingsSample/SettingsSample.csproj">
-    <Deploy Solution="Debug|*" />
+    <Deploy />
   </Project>
   <Project Path="SimpleRemoteCommandSample/SimpleRemoteCommandSample.csproj">
-    <Deploy Solution="Debug|*" />
+    <Deploy />
   </Project>
   <Project Path="TaggersSample/TaggersSample.csproj">
-    <Deploy Solution="Debug|*" />
+    <Deploy />
   </Project>
   <Project Path="ToolWindowSample/ToolWindowSample.csproj">
-    <Deploy Solution="Debug|*" />
+    <Deploy />
   </Project>
   <Project Path="UserPromptSample/UserPromptSample.csproj">
-    <Deploy Solution="Debug|*" />
+    <Deploy />
   </Project>
   <Project Path="VSProjectQueryAPISample/VSProjectQueryAPISample.csproj">
-    <Deploy Solution="Debug|*" />
+    <Deploy />
   </Project>
   <Project Path="WordCountMargin/WordCountMarginSample.csproj">
-    <Deploy Solution="Debug|*" />
+    <Deploy />
   </Project>
 </Solution>
