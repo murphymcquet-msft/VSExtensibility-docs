@@ -82,6 +82,9 @@
   <Project Path="RustLanguageServerProvider/RustLanguageServerProvider.csproj">
     <Deploy />
   </Project>
+  <Project Path="SDKStyleVSIX/SDKStyleVSIX.csproj" Id="99c3a8f6-b068-4021-96d2-4aa07e0090a2">
+    <Deploy />
+  </Project>
   <Project Path="SettingsSample/SettingsSample.csproj">
     <Deploy />
   </Project>
