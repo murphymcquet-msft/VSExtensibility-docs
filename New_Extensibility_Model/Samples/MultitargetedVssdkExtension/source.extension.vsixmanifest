@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="SDKStyleVSIX.487df005-73de-4c93-84f6-0fc8e8ab16a2" Version="2.0" Language="en-US" Publisher="SDKStyleVSIX" />
-    <DisplayName>SDKStyleVSIX</DisplayName>
+    <Identity Id="MultitargetedVssdkExtension.487df005-73de-4c93-84f6-0fc8e8ab16a2" Version="2.0" Language="en-US" Publisher="MultitargetedVssdkExtension" />
+    <DisplayName>MultitargetedVssdkExtension</DisplayName>
     <Description>Empty VSIX Project.</Description>
   </Metadata>
 	<Installation ExtensionType="VSSDK">

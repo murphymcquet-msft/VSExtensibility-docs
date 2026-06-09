@@ -4,7 +4,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.VisualStudio.Shell;
 
-namespace SDKStyleVSIX
+namespace MultitargetedVssdkExtension
 {
     /// <summary>
     /// This is the class that implements the package exposed by this assembly.
@@ -24,12 +24,12 @@ namespace SDKStyleVSIX
     /// </para>
     /// </remarks>
     [PackageRegistration(UseManagedResourcesOnly = true, AllowsBackgroundLoading = true)]
-    [Guid(SDKStyleVSIXPackage.PackageGuidString)]
+    [Guid(MultitargetedVssdkExtensionPackage.PackageGuidString)]
     [ProvideMenuResource("Menus.ctmenu", 1)]
-    public sealed class SDKStyleVSIXPackage : AsyncPackage
+    public sealed class MultitargetedVssdkExtensionPackage : AsyncPackage
     {
         /// <summary>
-        /// SDKStyleVSIXPackage GUID string.
+        /// MultitargetedVssdkExtensionPackage GUID string.
         /// </summary>
         public const string PackageGuidString = "8bac2fc8-b206-4568-916f-3c85d74af0f9";
 

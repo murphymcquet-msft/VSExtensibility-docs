@@ -7,7 +7,7 @@ using Microsoft.VisualStudio.Shell;
 using Microsoft.VisualStudio.Shell.Interop;
 using Task = System.Threading.Tasks.Task;
 
-namespace SDKStyleVSIX
+namespace MultitargetedVssdkExtension
 {
     /// <summary>
     /// Command handler
@@ -90,9 +90,9 @@ namespace SDKStyleVSIX
         {
             ThreadHelper.ThrowIfNotOnUIThread();
 #if VS_180_OR_GREATER
-            string message = "Hello World (from VS 2026 or later)!";
+            string message = "Hello World from VS (18.5 or greater)!";
 #else
-            string message = "Hello World! (from VS 2022 or earlier)";
+            string message = "Hello World from VS!";
 #endif
             string title = "Command1";
 
